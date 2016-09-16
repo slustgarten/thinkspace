@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-**About me** This is another personal blog.
+I'm trying to learn how to make almost anything while I get an mba at MIT sloan, focusing on entrepreneurship and innovation.
