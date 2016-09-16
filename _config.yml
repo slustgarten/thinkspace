@@ -1,7 +1,7 @@
 
 # SEO settings
-title: "Think"
-title2: "space" # default: ""
+title: "HTMAA"
+title2: "saul" # default: ""
 description: "Just another minimalist Jekyll theme that focuses on technical writing."
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url: http://slustgarten.github.io # site url
@@ -30,7 +30,7 @@ sass:
 # Author settings
 author:
   name     : "Saul Lustgarten"
-  job      : "MIT Entrepreneur"
+  job      : "student at MIT"
   bio      : "Move fast and break things."
   thumb    : /images/author.jpg
   email    : slustgarten@gmail.com
